@@ -56,4 +56,11 @@ fun AdamsCommitFun() {
         Greeting("Adams")
     }
 }
+
+@Preview(showBackground = true)
+@Composable
+fun ScottsCommitFun() {
+    SandboxTheme {
+        Greeting("Scotts")
+    }
 }
