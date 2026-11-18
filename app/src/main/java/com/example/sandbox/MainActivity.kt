@@ -62,5 +62,6 @@ fun AdamsCommitFun() {
 fun ScottsCommitFun() {
     SandboxTheme {
         Greeting("Scotts")
+        Greeting("Scotts Branch")
     }
 }
