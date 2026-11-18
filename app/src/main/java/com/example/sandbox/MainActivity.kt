@@ -45,3 +45,12 @@ fun GreetingPreview() {
         Greeting("Android")
     }
 }
+
+@Preview(showBackground = true)
+@Composable
+fun AdamsCommitFun() {
+    SandboxTheme {
+        Greeting("Adams")
+    }
+}
+}
